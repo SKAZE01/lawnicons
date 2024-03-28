@@ -9840,4 +9840,13 @@
   <item component="ComponentInfo{com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.activities.MainActivity}" drawable="tieba_lite" name="贴吧 Lite ~~ Tieba Lite" />
   <item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="idle_fish" name="闲鱼 ~~ Idle Fish" />
   <item component="ComponentInfo{com.lifeplatform.better/com.lifeplatform.better.MainActivity}" drawable="better" name="베터 ~~ Better" />
+  <item component="ComponentInfo{com.zhihu.hydrogen.x/com.jesse205.superlua.Main}" drawable="zhihu" name="Hydrogen" />
+  <item component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}" drawable="alibabacom" name="Alibaba.cn" />
+  <item component="ComponentInfo{com.magicalstory.AppStore/com.magicalstory.AppStore.main.MainActivity}" drawable="phone_probe" name="AppStore" />
+  <item component="ComponentInfo{com.yj1211.justlive/com.sunnyweather.android.MainActivity}" drawable="another_life" name="justlive" />
+  <item component="ComponentInfo{com.heyanle.easybangumi4/com.heyanle.easybangumi4.MainActivity}" drawable="niconico_video" name="easybangumi4" />
+  <item component="ComponentInfo{cn.wq.myandroidtoolspro/cn.wq.myandroidtoolspro.MainActivity}" drawable="myandroidtools" name="MyAndroidTools Pro" />
+  <item component="ComponentInfo{com.zhufucdev.motion_emulator/com.zhufucdev.motion_emulator.ui.MainActivity}" drawable="maps" name="motion_emulator" />
+  <item component="ComponentInfo{com.luckyzyx.luckytool/com.luckyzyx.luckytool.Hide}" drawable="bilibili_helper" name="LuckyTool" />
+ 
 </resources>
